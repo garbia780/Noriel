@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|c:\\users\\garbi\\onedrive\\desktop\\noria\\noria\\viewmodel\\folderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\viewmodel\\folderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\viewmodel\\foldermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\viewmodel\\foldermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\ui\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\filesandfolders\\filesystempathcomponentchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\viewmodel\\foldertreeviewmodelfilesystemviewitemprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\viewmodel\\foldertreeviewmodelfilesystemviewitemprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|solutionrelative:noria\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F88B0B7-1A90-4BFC-9040-BD07FD3D7DEA}|Noria\\Noria.csproj|C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\noria\\viewmodel\\globalfilesystemwatcheradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FileSystemPathComponentChain.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\FilesAndFolders\\FileSystemPathComponentChain.cs",
               "RelativeDocumentMoniker": "Noria\\FilesAndFolders\\FileSystemPathComponentChain.cs",
@@ -105,6 +105,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Noria\\UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml",
+              "RelativeToolTip": "Noria\\UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-20T17:48:16.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Noria\\UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Noria\\UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:49:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FolderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderViewModel.cs",
+              "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderViewModel.cs",
+              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderViewModel.cs",
+              "RelativeToolTip": "Noria\\ViewModel\\FolderViewModel.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAI0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T22:18:25.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FolderModel.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderModel.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderModel.cs",
@@ -116,38 +154,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FolderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderViewModel.cs",
-              "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderViewModel.cs",
-              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderViewModel.cs",
-              "RelativeToolTip": "Noria\\ViewModel\\FolderViewModel.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T22:18:25.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Noria\\UI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Noria\\UI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAE8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T17:49:32.25Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FolderTreeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderTreeViewModel.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderTreeViewModel.cs",
@@ -160,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FileSystemPathComponentLinkUpdatedEventArgs.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\FilesAndFolders\\FileSystemPathComponentLinkUpdatedEventArgs.cs",
               "RelativeDocumentMoniker": "Noria\\FilesAndFolders\\FileSystemPathComponentLinkUpdatedEventArgs.cs",
@@ -172,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FileSystemPathComponent.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\FilesAndFolders\\FileSystemPathComponent.cs",
               "RelativeDocumentMoniker": "Noria\\FilesAndFolders\\FileSystemPathComponent.cs",
@@ -184,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FolderItemModel.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderItemModel.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderItemModel.cs",
@@ -196,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FolderTreeItemModel.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderTreeItemModel.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderTreeItemModel.cs",
@@ -208,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FolderFolderItemModel.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderFolderItemModel.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderFolderItemModel.cs",
@@ -220,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FolderTreeViewModelFileSystemViewItemProvider.cs",
               "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\ViewModel\\FolderTreeViewModelFileSystemViewItemProvider.cs",
               "RelativeDocumentMoniker": "Noria\\ViewModel\\FolderTreeViewModelFileSystemViewItemProvider.cs",
@@ -229,18 +241,6 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T22:26:38.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Noria\\UI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\garbi\\OneDrive\\Desktop\\Noria\\Noria\\UI\\MainWindow.xaml",
-              "RelativeToolTip": "Noria\\UI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-20T17:48:16.219Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
